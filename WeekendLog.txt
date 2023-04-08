@@ -1,0 +1,17 @@
+commit a42e8428f4f0858390a79d2c09cc3ae0cc5d371f
+Author: QianhuiMa1101 <qhma@ucdavis.edu>
+Date:   Fri Apr 7 17:29:11 2023 -0700
+
+    Added Qianhui_weekendplan.txt
+
+commit 2cafb829a9229503a00cb6c5a5fdf16cad18f8d7
+Author: Cameron Thornton <cnthornton@ucdavis.edu>
+Date:   Fri Apr 7 13:58:23 2023 -0700
+
+    Updated README.md
+
+commit 4cec20bde2ddcb7bb0d763fa19b67c8988d67de9
+Author: Cameron Thornton <cnthornton@ucdavis.edu>
+Date:   Fri Apr 7 13:51:42 2023 -0700
+
+    Added README.md
